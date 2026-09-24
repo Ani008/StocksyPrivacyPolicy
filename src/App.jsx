@@ -372,7 +372,7 @@ export default function App() {
                 href="mailto:indiastocksy@gmail.com"
                 className="text-[var(--color-ledger-green)] underline underline-offset-2"
               >
-                indiastocksy@gmail.com
+                support@stocksy.online
               </a>
             </p>
             <p>
