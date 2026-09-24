@@ -271,8 +271,8 @@ export default function App() {
             Your rights &amp; account deletion
           </SectionHeading>
           <P>
-            You may request access to, correction of, or deletion of your
-            personal data at any time by contacting us (Section 10).
+            You may permanently delete your Stocksy account at any time from within the Stocksy app
+            Profile → Delete Account and confirming the deletion. No reason is required.
           </P>
           <P>
             When you delete your account, your personal data and app data are
@@ -280,9 +280,8 @@ export default function App() {
             legally required.
           </P>
           <P>
-            You do not need to have the app installed to request deletion —
-            you can also do so via our website or by emailing our support
-            address below.
+            If you no longer have access to the Stocksy app, you may request account and associated-data deletion by emailing support@stocksy.online from the email address associated with your Stocksy account.
+            Use the subject “Stocksy Account Deletion Request.” We will process the request after verifying ownership of the account.
           </P>
 
           <Rule />
